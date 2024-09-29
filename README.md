@@ -48,4 +48,4 @@ To get started with MONB, follow these instructions:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/monb-neox.git
+https://github.com/mishalturkane/MONB-Neox.git
